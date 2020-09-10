@@ -1,6 +1,6 @@
 package OCA;
 
-public class S02 {
+public class S02_OCA_4 {
     public static void main(String[] args) {
         int ivar = 100;
         double dvar = 123;
